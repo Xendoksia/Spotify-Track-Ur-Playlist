@@ -1,0 +1,23 @@
+# Personal settings: Client ID / Secret and Spotify session (never share)
+config.json
+
+# Local history database
+*.db
+*.db-journal
+
+# Exported history
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+*.bak
