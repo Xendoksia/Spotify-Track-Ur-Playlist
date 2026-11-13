@@ -1,4 +1,4 @@
-# Spotify Playlist Tracker
+# Spotify Playlist Tracker DEMOOOOOOOOOOO
 
 ![Playlist Tracker](docs/screenshot.png)
 
